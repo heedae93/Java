@@ -8,5 +8,6 @@ public class Var3 {
         System.out.println(a);
         a = 50; //변수 값 변경: a(10 -> 50)
         System.out.println(a);
+
     }
 }
